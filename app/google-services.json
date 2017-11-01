@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "280823299949",
+    "firebase_url": "https://ictbroadcastapp.firebaseio.com",
+    "project_id": "ictbroadcastapp",
+    "storage_bucket": "ictbroadcastapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280823299949:android:5893235d344da995",
+        "android_client_info": {
+          "package_name": "com.example.shared.ictbroadcastapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280823299949-tg05mjutvhhavt34ttlrof45485ab5io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shared.ictbroadcastapp",
+            "certificate_hash": "468363edc9aedb82a5fae649334a1fa84ad75287"
+          }
+        },
+        {
+          "client_id": "280823299949-dr68a0fg9ns7k3fjrg892ihp5opeg89q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxrBRjn-GC3Uu1Nkym7DJtYxpEThcx7M4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280823299949-dr68a0fg9ns7k3fjrg892ihp5opeg89q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

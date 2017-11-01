@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ICT_BroadcastAPP</string>
+    <string name="hint_user">username</string>
+    <string name="hint_email">email-Id</string>
+    <string name="hint_enroll">Enrollment</string>
+    <string name="hint_pass">password</string>
+    <string name="login_button">Login</string>
+    <string name="reset_button">Reset</string>
+    <string name="register_button">Register</string>
+    <string name="forgotPass">Forgot password? click here</string>
+    <string name="newUser">New User? Click here</string>
+
+</resources>
